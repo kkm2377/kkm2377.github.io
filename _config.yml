@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Kyungmin.Kim
+email: kkm0919@gmail.com
+url: https://kkm2377.github.io
+description: "This is my web space that I upoad my Dev portfolio"
+keywords: "korean made in Seoul, Korea, living in japan, TSE in LINE, BackEnd, FrontEnd"
+skills: "FrontEnd:HTML, CSS, JavaScript / BackEnd:PHP, JAVA, Python, NodeJS / DB:MySQL, PostgreSQL"
+meta_author: Kyungmin Kim
 
 # Google webmaster tools
 google_verify:
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
@@ -48,12 +48,12 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/kkm2377
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Tsuruma 3-11-14
+  - line: Tokyo Machida-shi
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
